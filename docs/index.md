@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to CrossFit Help
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+CrossFit help is a site dedicated to publishing CrossFit certification material in a format this is accessible to all.
 
-## Commands
+## The Problem
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Over the last twenty years, CrossFit has published content in many different formats as well as locations. Some of this content has been published in inaccessable PDF format, and some is still hosted on insuure sites that not compatible with modern browsers. The content has been organized somewhat by CrossFit Certification, but only for materials that are within the CrossFit certificate and certification body of knowledge.
 
-## Project layout
+## The Solution
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This is an open source project to translate all of the old and new documentation into formats that are more accessable and easier to manage. Where possible, old videos will be transcribed, PDFs will be converted, and files rehosted as capacity allows.
