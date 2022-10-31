@@ -9,3 +9,5 @@ Over the last twenty years, CrossFit has published content in many different for
 ## The Solution
 
 This is an open source project to translate all of the old and new documentation into formats that are more accessable and easier to manage. Where possible, old videos will be transcribed, PDFs will be converted, and files rehosted as capacity allows.
+
+If you would like to contribute or correct, please select the Edit on Github button.

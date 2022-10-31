@@ -1,6 +1,6 @@
 ---
-edit_uri: blob/main/docs/
-repo_url: https://github.com/jasonpatrickellykrause/crossfit-help/
+plugins:
+  - mkdocs-video
 site_description: Open sourcing CrossFit documentation
 site_name: CrossFit Help
 site_url: https://crossfit.help
