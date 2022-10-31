@@ -1,3 +1,11 @@
+---
+title: Home
+summary: An introduction to CrossFit Help goals.
+authors:
+    - Jason Krause
+date: 2022-10-31
+---
+
 # Welcome to CrossFit Help
 
 CrossFit help is a site dedicated to publishing CrossFit certification material in a format this is accessible to all.
